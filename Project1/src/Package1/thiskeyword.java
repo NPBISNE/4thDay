@@ -37,6 +37,7 @@ public class thiskeyword
 		thiskeyword ref4 = new thiskeyword(12,32,44,54);
 		thiskeyword ref1 = new thiskeyword(12);
 		thiskeyword ref2 = new thiskeyword(12,22);
+		thiskeyword ref5 = new thiskeyword(12,22);
 	}
 
 }
